@@ -109,6 +109,8 @@ const questions = [
   } else {
     showScore();
   }
+
+  
  }
  nextBtn.addEventListener("click",()=> {
   if(currentQuestionIndex<questions.length){
